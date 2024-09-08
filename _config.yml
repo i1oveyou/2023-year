@@ -23,7 +23,7 @@ footer:
       name: Email
       value: resmile0927@gmail.com
     - type: wechat
-      value: xiangmouren
+      value: wechat
       link: "#"
   follow:
     - type: twitter
