@@ -6,16 +6,9 @@
 
 // Our variables
 
-
-
-@font-face{
-  font-family: LXGWWenKai;
-  src: url('https://raw.githubusercontent.com/i1oveyou/2023-year/master/assets/fonts/LXGWWenKai-Regular.ttf') format("truetype");
-}
-
 $base-url: "{{ site.baseurl }}";
 
-$base-font-family: LXGWWenKai,Charter, Georgia, Helvetica, Arial, sans-serif;
+$base-font-family: "LXGW WenKai Screen", sans-serif;
 $base-font-size: 20px;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.7;
