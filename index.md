@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Blog
+title: "香香的小日常-流水账作文"
 slug: /blog
 ---
 
