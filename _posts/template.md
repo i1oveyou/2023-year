@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "2023-01-01-模板"
-date:   2023-01-01 00:00:00 +0800
+title:  "模板"
+date:   2023-01-01 12:00:00 +0800
 ---
 
 
@@ -11,8 +11,6 @@ date:   2023-01-01 00:00:00 +0800
 
 
 ```
-./img/ 
-==>
 https://raw.githubusercontent.com/i1oveyou/2023-year/master/_posts/xxx/img/
 ```
 
