@@ -1,0 +1,30 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: 关于2023这一年
+    entries:
+      - title: 今年22岁
+      - title: 大学三年级
+
+  - title: rss
+    url: feed.xml
+
+  - title: all posts
+    post_list:
+      limit: 357
+      show_more: false
+      show_more_text: See more posts...
+      show_more_url: archive.html
+  
+ 
+  # - title: another list
+  #   entries:
+  #     - title: with subitems
+  #       entries:
+  #         - title: with subsubitems
+  #         - title: example page
+  #           url: about
+  # - title: PRO TIP
+  #   entries:
+  #     - title: to edit this menu, edit _data/menu.yml file
